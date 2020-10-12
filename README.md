@@ -1,6 +1,8 @@
 ## Fault-Attention Generative Probabilistic Adversarial Autoencoder for Machine Anomaly Detection
 PyTorch code for paper: Fault-Attention Generative Probabilistic Adversarial Autoencoder for Machine Anomaly Detection
 
+https://ieeexplore.ieee.org/abstract/document/9016153
+
 It is modified from https://github.com/podgorskiy/GPND.
 
 ## Steps 
