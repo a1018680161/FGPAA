@@ -1,6 +1,9 @@
-# FGPAA
-Fault-Attention Generative Probabilistic Adversarial Autoencoder for Machine Anomaly Detection
+## Fault-Attention Generative Probabilistic Adversarial Autoencoder for Machine Anomaly Detection
+PyTorch code for paper: Fault-Attention Generative Probabilistic Adversarial Autoencoder for Machine Anomaly Detection
+
 It is modified from https://github.com/podgorskiy/GPND.
+
+## Steps 
 
 setp1: download data on https://github.com/cathysiyu/Mechanical-datasets
 
